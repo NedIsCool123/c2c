@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "c2cAPP",
+    "slug": "c2cAPP",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f4f4f4"
+    },
+    "ios": {
+      "splash": {
+        "image": "./assets/icon.png",
+        "resizeMode": "contain",
+        "backgroundColor": "#f4f4f4"
+      },
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#f4f4f4"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "stripePublishableKey": "pk_test_51R02LrEQ4DgeXJgXSL4HjbOKncv5A37Q3KDuFyyuQbTD6tvjyLL9zuYpOe9rORoisDibBZelaE9EwiePBReXMZCT00OChlKPEL"
+    }
+  }
+}
